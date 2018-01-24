@@ -1,0 +1,248 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+MERGED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/1585eaee8bcb30a96f6b7d348f3db90c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ede8ded4f09edf250d178e83675ad646/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/17fc8e11ceda99a0a7bed70ccb1be37c/AndroidManifest.xml:17:1-28:12
+MERGED from [com.github.danylovolokh:video-player-manager:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/video-player-manager-0.2.0.aar/cf2fcb9abbb5a5a9a9c2d9b9856cd72b/AndroidManifest.xml:2:1-16:12
+MERGED from [com.github.danylovolokh:list-visibility-utils:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/list-visibility-utils-0.2.0.aar/a31321b66a7d487191be6291e2cfd7e3/AndroidManifest.xml:2:1-16:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dab1230e3d03c05e8d113587c4424b0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0aaa434e93f99d3ebeb5949127a59101/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4819232d7fb9974f139773e308644f97/AndroidManifest.xml:17:1-28:12
+MERGED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:2:1-20:12
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/91b4e2d26c5c3399461cf789772e036b/AndroidManifest.xml:2:1-7:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c0c12e907907366b8c4ad4f69f4ae3f0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ef26a69947c1a5202f7c06ad791f08/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d563afd2a8cbf846445e7c58ddb22818/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/aa19af5adf488e475bc0eab4d5a9d227/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e4f6449ce339a278e7245cf3cc811a22/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/78e406c549a9ac1af4a500e3df1483dd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cb5379356e1738b2c11e6c14e2ef0d44/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a9e774ef030f6955174ffc3da8f0a1f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9b61b2f0823728a1409887240063e3/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+	package
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:3:5-28
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:1-42:12
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.CAMERA
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:5:22-62
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:6:5-70
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:12:5-40:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ede8ded4f09edf250d178e83675ad646/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ede8ded4f09edf250d178e83675ad646/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/17fc8e11ceda99a0a7bed70ccb1be37c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/17fc8e11ceda99a0a7bed70ccb1be37c/AndroidManifest.xml:22:5-26:19
+MERGED from [com.github.danylovolokh:video-player-manager:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/video-player-manager-0.2.0.aar/cf2fcb9abbb5a5a9a9c2d9b9856cd72b/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.danylovolokh:video-player-manager:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/video-player-manager-0.2.0.aar/cf2fcb9abbb5a5a9a9c2d9b9856cd72b/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.danylovolokh:list-visibility-utils:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/list-visibility-utils-0.2.0.aar/a31321b66a7d487191be6291e2cfd7e3/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.danylovolokh:list-visibility-utils:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/list-visibility-utils-0.2.0.aar/a31321b66a7d487191be6291e2cfd7e3/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dab1230e3d03c05e8d113587c4424b0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dab1230e3d03c05e8d113587c4424b0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0aaa434e93f99d3ebeb5949127a59101/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0aaa434e93f99d3ebeb5949127a59101/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4819232d7fb9974f139773e308644f97/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4819232d7fb9974f139773e308644f97/AndroidManifest.xml:22:5-26:19
+MERGED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:11:5-18:19
+MERGED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:11:5-18:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c0c12e907907366b8c4ad4f69f4ae3f0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c0c12e907907366b8c4ad4f69f4ae3f0/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ef26a69947c1a5202f7c06ad791f08/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ef26a69947c1a5202f7c06ad791f08/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d563afd2a8cbf846445e7c58ddb22818/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d563afd2a8cbf846445e7c58ddb22818/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/aa19af5adf488e475bc0eab4d5a9d227/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/aa19af5adf488e475bc0eab4d5a9d227/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e4f6449ce339a278e7245cf3cc811a22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e4f6449ce339a278e7245cf3cc811a22/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/78e406c549a9ac1af4a500e3df1483dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/78e406c549a9ac1af4a500e3df1483dd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cb5379356e1738b2c11e6c14e2ef0d44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cb5379356e1738b2c11e6c14e2ef0d44/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a9e774ef030f6955174ffc3da8f0a1f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a9e774ef030f6955174ffc3da8f0a1f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9b61b2f0823728a1409887240063e3/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9b61b2f0823728a1409887240063e3/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:15:9-41
+	android:roundIcon
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:16:9-54
+	android:icon
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.vliz.vliz.activity.MainActivity
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:label
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:21:13-45
+	android:theme
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:22:13-69
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:20:13-50
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.vliz.vliz.activity.SaveVideoActivity
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:30:9-33:20
+	android:theme
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:32:13-69
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:31:13-55
+activity#com.vliz.vliz.activity.VideoFullScreenActivity
+ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:35:9-38:20
+	android:theme
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml:36:13-61
+uses-sdk
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:21:5-23:55
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/1585eaee8bcb30a96f6b7d348f3db90c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.JakeWharton:ViewPagerIndicator:2.4.1] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/ViewPagerIndicator-2.4.1.aar/1585eaee8bcb30a96f6b7d348f3db90c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ede8ded4f09edf250d178e83675ad646/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ede8ded4f09edf250d178e83675ad646/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/17fc8e11ceda99a0a7bed70ccb1be37c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/17fc8e11ceda99a0a7bed70ccb1be37c/AndroidManifest.xml:20:5-44
+MERGED from [com.github.danylovolokh:video-player-manager:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/video-player-manager-0.2.0.aar/cf2fcb9abbb5a5a9a9c2d9b9856cd72b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.danylovolokh:video-player-manager:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/video-player-manager-0.2.0.aar/cf2fcb9abbb5a5a9a9c2d9b9856cd72b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.danylovolokh:list-visibility-utils:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/list-visibility-utils-0.2.0.aar/a31321b66a7d487191be6291e2cfd7e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.danylovolokh:list-visibility-utils:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/list-visibility-utils-0.2.0.aar/a31321b66a7d487191be6291e2cfd7e3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dab1230e3d03c05e8d113587c4424b0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dab1230e3d03c05e8d113587c4424b0/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0aaa434e93f99d3ebeb5949127a59101/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0aaa434e93f99d3ebeb5949127a59101/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4819232d7fb9974f139773e308644f97/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4819232d7fb9974f139773e308644f97/AndroidManifest.xml:20:5-44
+MERGED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:7:5-9:41
+MERGED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:7:5-9:41
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/91b4e2d26c5c3399461cf789772e036b/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.6.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/butterknife-8.6.0.aar/91b4e2d26c5c3399461cf789772e036b/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c0c12e907907366b8c4ad4f69f4ae3f0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/c0c12e907907366b8c4ad4f69f4ae3f0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ef26a69947c1a5202f7c06ad791f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ef26a69947c1a5202f7c06ad791f08/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d563afd2a8cbf846445e7c58ddb22818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d563afd2a8cbf846445e7c58ddb22818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/aa19af5adf488e475bc0eab4d5a9d227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/aa19af5adf488e475bc0eab4d5a9d227/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e4f6449ce339a278e7245cf3cc811a22/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e4f6449ce339a278e7245cf3cc811a22/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/78e406c549a9ac1af4a500e3df1483dd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/78e406c549a9ac1af4a500e3df1483dd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cb5379356e1738b2c11e6c14e2ef0d44/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cb5379356e1738b2c11e6c14e2ef0d44/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a9e774ef030f6955174ffc3da8f0a1f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a9e774ef030f6955174ffc3da8f0a1f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9b61b2f0823728a1409887240063e3/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9b61b2f0823728a1409887240063e3/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/nacho13rojas/Development/irgonzales/Vliz2/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ede8ded4f09edf250d178e83675ad646/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/ede8ded4f09edf250d178e83675ad646/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/17fc8e11ceda99a0a7bed70ccb1be37c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/17fc8e11ceda99a0a7bed70ccb1be37c/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dab1230e3d03c05e8d113587c4424b0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/8dab1230e3d03c05e8d113587c4424b0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0aaa434e93f99d3ebeb5949127a59101/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/0aaa434e93f99d3ebeb5949127a59101/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4819232d7fb9974f139773e308644f97/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/4819232d7fb9974f139773e308644f97/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ef26a69947c1a5202f7c06ad791f08/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/49ef26a69947c1a5202f7c06ad791f08/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d563afd2a8cbf846445e7c58ddb22818/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/d563afd2a8cbf846445e7c58ddb22818/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/aa19af5adf488e475bc0eab4d5a9d227/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/aa19af5adf488e475bc0eab4d5a9d227/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e4f6449ce339a278e7245cf3cc811a22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e4f6449ce339a278e7245cf3cc811a22/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/78e406c549a9ac1af4a500e3df1483dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/78e406c549a9ac1af4a500e3df1483dd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cb5379356e1738b2c11e6c14e2ef0d44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/cb5379356e1738b2c11e6c14e2ef0d44/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a9e774ef030f6955174ffc3da8f0a1f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/7a9e774ef030f6955174ffc3da8f0a1f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9b61b2f0823728a1409887240063e3/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/2c9b61b2f0823728a1409887240063e3/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.1.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/support-v13-26.1.0.aar/8059d2482881e7507ad0aedd581f78f7/AndroidManifest.xml:27:13-51
+service#com.allattentionhere.autoplayvideos.AAH_DownloadService
+ADDED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:15:9-17:40
+	android:exported
+		ADDED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:17:13-37
+	android:name
+		ADDED from [com.allattentionhere:autoplayvideos:0.2.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/autoplayvideos-0.2.0.aar/cf22934566dfeb3226d5fbd5cf9b2705/AndroidManifest.xml:16:13-83
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/nacho13rojas/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/f0890107ddb406ff8f4a996f08bf4913/AndroidManifest.xml:26:13-58
