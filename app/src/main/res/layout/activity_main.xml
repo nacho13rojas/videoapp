@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context="com.vliz.vliz.activity.MainActivity">
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/container"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior" />
+
+        <com.viewpagerindicator.UnderlinePageIndicator
+            android:id="@+id/indicator"
+            android:layout_height="2dp"
+            android:layout_width="fill_parent"
+            android:background="#000"
+            app:selectedColor="@color/purple"
+            app:fadeDelay="1000"
+            app:fadeLength="1000"
+            />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="center|bottom">
+
+        <Button
+            android:id="@+id/record"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/fab_margin"
+            android:background="@drawable/player_record"/>
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginStart="40dp"
+            android:layout_marginEnd="40dp"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/feed"
+                android:text="@string/feed"
+                android:textColor="#FFF"
+                android:layout_width="wrap_content"
+                android:layout_height="37dp"
+                android:layout_gravity="start|center"
+                android:layout_margin="@dimen/fab_margin"
+                 />
+
+            <Button
+                android:id="@+id/camera"
+                android:text="@string/camera"
+                android:textColor="#FFF"
+                android:layout_width="wrap_content"
+                android:layout_height="37dp"
+                android:layout_gravity="end|center"
+                android:layout_margin="@dimen/fab_margin"
+                 />
+
+        </GridLayout>
+
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>
